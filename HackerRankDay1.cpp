@@ -18,8 +18,6 @@ int main() {
    y= stod(tmp);
    getline(cin, z);
 
-   cin>>x>>y;
-
 printf("%i\n",i+x);
 printf("%.1f\n",d+y);
    cout<< s+z<<endl;
